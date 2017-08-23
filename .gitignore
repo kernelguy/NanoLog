@@ -1,0 +1,5 @@
+_out/*
+!_out/.gitkeep
+externals/*
+!externals/.gitkeep
+.settings
